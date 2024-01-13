@@ -1,0 +1,20 @@
+body {
+  background-color: #ffdbdb;
+  font-family: Arial;
+  font-size: 10px;
+}
+h1 {
+  font-size: 30px;
+}
+.first {
+  color: blue;
+}
+
+#your-name {
+  background-color: rgba(185, 186, 180, 0.5);
+  border: 5px solid #181818;
+}
+
+#your-name {
+  background-color: #965d3e;
+}
